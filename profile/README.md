@@ -1,6 +1,6 @@
 # Physics Society
 
-Welcome to the official GitHub organization of the Physics Society at [Your Institution Name].
+Welcome to the official GitHub organization of the Physics Society NIT Rourkela.
 
 Here, we publish:
 - 📝 Summaries of weekend discussions
